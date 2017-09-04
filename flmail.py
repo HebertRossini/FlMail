@@ -61,6 +61,8 @@ except:
     +------------------------------------------------------+
     | Algo deu errado!                                     |
     | Certifique-se de que seu email/senha estão corretos! |
+    | Permita aplicativos menos seguros em:                |
+    | https://myaccount.google.com/lesssecureapps?pli=1    |
     +------------------------------------------------------+
     '''
     print(erro)
