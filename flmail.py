@@ -63,3 +63,4 @@ except:
     | Certifique-se de que seu email/senha estão corretos! |
     +------------------------------------------------------+
     '''
+    print(erro)
