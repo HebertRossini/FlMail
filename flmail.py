@@ -33,7 +33,7 @@ try:
     print('====' * 10)
     menssagem = input('[*]Menssagem: ')
     print('====' * 10)
-    quantidade = int(input('Quantidade de Emails: '))
+    quantidade = int(input('[*]Quantidade de Emails: '))
     print('====' * 10)
 
     i = 0
